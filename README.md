@@ -1,5 +1,5 @@
 # OpenClassrooms-Projet-4
-Définissez les technologies et les paradigmes d'une application
+Définissez les technologies et les paradigmes d'une application Java / Angular
 
 # Objectifs
 
@@ -43,7 +43,12 @@ Savoir effectuer une veille et faire des choix techniques en adéquation avec le
 - Multi Language (Typescript / Javascript / Java)
 - Développé par Microsoft
 ### Java
-- JUnit5
-- Cucumber (BDD)
+#### JUnit5
+#### Cucumber (BDD)
 ### Composants
-- Angular Material
+ Angular Material
+
+## Paradigmes de programmation
+[La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)
+### Spring WebFlux
+[Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)

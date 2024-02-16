@@ -1,11 +1,4 @@
 [Retour](README.md)
-# Architectures des applications
-## Conteneurs, DevOPS et Architectures Cloud
-## Architecture à 12 Facteurs
-## Service Oriented Architecture
-## Serverless Architecture
-## Lambda Architectures
-## Reactive MicroServices
 # Paradigmes de programmation
 ## Programmation réactive
 - [La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)
@@ -47,3 +40,16 @@
 - [11 Java Testing Frameworks You Need for Modern Development](https://www.narolainfotech.com/blogs/java-testing-frameworks/)
 - [Jetbrains - Testing frameworks](https://www.jetbrains.com/help/idea/testing-frameworks.html)
 - [Java Testing tools for 2024](https://dev.to/ivangavlik/java-testing-tools-for-2024-2di0)
+
+# Architectures des applications
+## Conteneurs, DevOPS et Architectures Cloud
+## Architecture à 12 Facteurs
+- [The Twelve Factors](https://12factor.net/)
+- [12-factor app : les bonnes pratiques pour votre web-app](https://medium.com/@quentin.farizon/startup-web-app-12-factors-45c54eef0665)
+- [12-factor App : une excellente base de développement applicatif](https://scient.fr/12-factor-app-une-excellente-base-de-developpement-applicatif/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
+- [An illustrated guide to 12 Factor Apps](https://www.redhat.com/architect/12-factor-app)
+## Service Oriented Architecture
+## Serverless Architecture
+## Lambda Architectures
+## Reactive MicroServices

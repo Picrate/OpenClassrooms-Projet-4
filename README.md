@@ -47,12 +47,3 @@ Savoir effectuer une veille et faire des choix techniques en adéquation avec le
 #### Cucumber (BDD)
 ### Composants
  Angular Material
-
-## Paradigmes de programmation
-- [La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)
-- [Le manifeste de la programmation réactive](https://www.reactivemanifesto.org/fr)
-### Flux réactifs
-- [API ReactiveX](https://reactivex.io/)
-- [Bibliothèque Reactive Stream](https://www.reactive-streams.org/)
-### Spring WebFlux
-- [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-- - [framework/reference/web/webflux/new-framework.html#webflux-framework-choice)

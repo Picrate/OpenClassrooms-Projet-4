@@ -1,4 +1,18 @@
-[Retour](RE.md)
+[Retour](README.md)
+# Paradigmes de programmation
+## Programmation réactive
+- [La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)
+- [Le manifeste de la programmation réactive](https://www.reactivemanifesto.org/fr)
+### Angular et la programmation réactive
+- [RxJS](https://rxjs.dev/)
+### Java
+#### Flux réactifs
+- [API ReactiveX](https://reactivex.io/)
+- [Bibliothèque Reactive Stream](https://www.reactive-streams.org/)
+#### Spring WebFlux
+- [Introduction à Spring Webfluw et la programmation réactive](https://creativetech-fr.devoteam.com/2023/06/16/spring-webflux-le-developpement-web-reactif/#:~:text=Spring%20WebFlux%20est%20un%20excellent,interagir%20avec%20d'autres%20microservices.)
+- [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)
+
 # Etat de l'art des bibliothèques Javascript et Java
 ## bibliothèques de composants
 - [Top Angular Component Libraries](https://medium.com/theymakedesign/top-angular-component-libraries-0a6fd9752457)
@@ -26,17 +40,3 @@
 - [11 Java Testing Frameworks You Need for Modern Development](https://www.narolainfotech.com/blogs/java-testing-frameworks/)
 - [Jetbrains - Testing frameworks](https://www.jetbrains.com/help/idea/testing-frameworks.html)
 - [Java Testing tools for 2024](https://dev.to/ivangavlik/java-testing-tools-for-2024-2di0)
-
-# Paradigmes de programmation
-## Programmation réactive
-- [La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)
-- [Le manifeste de la programmation réactive](https://www.reactivemanifesto.org/fr)
-### Angular et la programmation réactive
-- [RxJS](https://rxjs.dev/)
-### Java
-#### Flux réactifs
-- [API ReactiveX](https://reactivex.io/)
-- [Bibliothèque Reactive Stream](https://www.reactive-streams.org/)
-#### Spring WebFlux
-- [Introduction à Spring Webfluw et la programmation réactive](https://creativetech-fr.devoteam.com/2023/06/16/spring-webflux-le-developpement-web-reactif/#:~:text=Spring%20WebFlux%20est%20un%20excellent,interagir%20avec%20d'autres%20microservices.)
-- [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)

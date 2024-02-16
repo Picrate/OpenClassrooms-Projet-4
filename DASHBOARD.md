@@ -38,4 +38,4 @@
 - [API ReactiveX](https://reactivex.io/)
 - [Bibliothèque Reactive Stream](https://www.reactive-streams.org/)
 #### Spring WebFlux
-- [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-- - [framework/reference/web/webflux/new-framework.html#webflux-framework-choice)
+- [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)

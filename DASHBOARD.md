@@ -28,10 +28,14 @@
 - [Java Testing tools for 2024](https://dev.to/ivangavlik/java-testing-tools-for-2024-2di0)
 
 # Paradigmes de programmation
+## Programmation réactive
 - [La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)
 - [Le manifeste de la programmation réactive](https://www.reactivemanifesto.org/fr)
-## Flux réactifs
+### Angular et la programmation réactive
+- [RxJS](https://rxjs.dev/)
+### Java
+#### Flux réactifs
 - [API ReactiveX](https://reactivex.io/)
 - [Bibliothèque Reactive Stream](https://www.reactive-streams.org/)
-## Spring WebFlux
+#### Spring WebFlux
 - [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-- - [framework/reference/web/webflux/new-framework.html#webflux-framework-choice)

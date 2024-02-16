@@ -1,6 +1,14 @@
 # OpenClassrooms-Projet-4
 Définissez les technologies et les paradigmes d'une application
 
+# Objectifs
+
+Savoir effectuer une veille et faire des choix techniques en adéquation avec les besoins du client.
+- Définir l’architecture d'une l’application.
+- Choisir des librairies de test et de composants visuels.
+- Choisir les paradigmes de programmation.
+- Justifier ses choix par rapport aux besoins client.
+
 # Dashboard
 [Les sources utilisées pour la veille](DASHBOARD.md)
 

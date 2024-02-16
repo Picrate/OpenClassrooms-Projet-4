@@ -23,12 +23,13 @@ Savoir effectuer une veille et faire des choix techniques en adéquation avec le
 ## Evolutivité
 `Vous devrez choisir des technologies connues et documentées. Cela facilitera le travail des futurs développeurs qui seront potentiellement amenés à travailler dessus.`
 
-# Dashboard
+# Veille Technologique
+## Dashboard
 [Les sources utilisées pour la veille](DASHBOARD.md)
 
-# Choix des bibliothèques
-## Javascript
-### JEST
+## Choix des bibliothèques
+### Javascript
+#### JEST
 - Test parallélisés en les exécutant dans leurs propres processus afin de maximiser les performances.
 - Projet OpenSource
 - Zero configuration
@@ -37,12 +38,12 @@ Savoir effectuer une veille et faire des choix techniques en adéquation avec le
 - Snapshots en cours de tests
 - Fonctionne avec Node, React, Angular, Vue...
 - Supporté par défaut par Angular (v.16)
-## Playwright
+### Playwright
 - Multi Browser (Chrome, Firefox, Safari)
 - Multi Language (Typescript / Javascript / Java)
 - Développé par Microsoft
-## Java
+### Java
 - JUnit5
 - Cucumber (BDD)
-## Composants
-- Agular Material
+### Composants
+- Angular Material

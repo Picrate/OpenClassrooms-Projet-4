@@ -1,4 +1,11 @@
 [Retour](README.md)
+# Architectures des applications
+## Conteneurs, DevOPS et Architectures Cloud
+## Architecture à 12 Facteurs
+## Service Oriented Architecture
+## Serverless Architecture
+## Lambda Architectures
+## Reactive MicroServices
 # Paradigmes de programmation
 ## Programmation réactive
 - [La programmation réactive](https://blog.ouidou.fr/la-programmation-r%C3%A9active-12f342cef911)

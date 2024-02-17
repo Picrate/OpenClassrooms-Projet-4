@@ -5,7 +5,7 @@
 - [Le manifeste de la programmation réactive](https://www.reactivemanifesto.org/fr)
 ### Angular et la programmation réactive
 - [RxJS](https://rxjs.dev/)
-### Java
+### Java et la programmation réactive
 #### Flux réactifs
 - [API ReactiveX](https://reactivex.io/)
 - [Bibliothèque Reactive Stream](https://www.reactive-streams.org/)
@@ -14,13 +14,19 @@
 - [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)
 # Architecture logicielle
 ## Architecture à microservice
+- [Qu'est-ce que l'architecture de microservices ?](https://cloud.google.com/learn/what-is-microservices-architecture?hl=fr#:~:text=Dans%20une%20architecture%20de%20microservices,r%C3%A9pondre%20%C3%A0%20des%20probl%C3%A9matiques%20m%C3%A9tier.)
+- [Appréhendez l'architecture Microservices](https://openclassrooms.com/fr/courses/4668056-construisez-des-microservices/7651431-apprehendez-larchitecture-microservices)
+- [Les microservices, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/microservices/what-are-microservices)
 ## Architecture Hexagonale
 - [Exploring the Hexagonal Architecture](https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture/)
 - [L’architecture hexagonale : Deux côtés valent mieux qu’un, mais six c’est encore mieux!](https://medium.com/@cindanojonathan.fr/larchitecture-hexagonale-une-histoire-toujours-%C3%A0-double-facette-a5be0fb5dc75)
 - [Architecture Hexagonale, exemple de mise en pratique de la méthode DDD Domain Driven Design](https://www.urbanisation-si.com/architecture-hexagonale-un-exemple-de-mise-en-pratique-de-la-methode-ddd-domain-driven-design-1)
 - [De la Théorie à la Pratique : Spring Boot, Architecture Hexagonale et DDD, pour des Applications Java Modulaires et Orientées Métier](https://medium.com/@faroukymedia/de-la-th%C3%A9orie-%C3%A0-la-pratique-spring-boot-architecture-hexagonale-et-ddd-pour-des-applications-f1110d83bced)
+- [Architecture Hexagonale par la pratique](https://blog.sciam.fr/2023/10/27/architecture-hexagonale-par-la-pratique-partie1.html)
 ## Architecture à 12 Facteurs
-
+- [Développement d'applications douze facteurs sur Google Cloud](https://cloud.google.com/architecture/twelve-factor-app-development-on-gcp?hl=fr)
+- [12-factor app : les bonnes pratiques pour votre web-app](https://medium.com/@quentin.farizon/startup-web-app-12-factors-45c54eef0665)
+- [Twelve-Factor Methodology in a Spring Boot Microservice](https://www.baeldung.com/spring-boot-12-factor)
 # Etat de l'art des bibliothèques Javascript et Java
 ## bibliothèques de composants
 - [Top Angular Component Libraries](https://medium.com/theymakedesign/top-angular-component-libraries-0a6fd9752457)

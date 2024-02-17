@@ -14,7 +14,6 @@
 - [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)
 # Architecture logicielle
 ## Architecture à microservice
-- [Qu'est-ce que l'architecture de microservices ?](https://cloud.google.com/learn/what-is-microservices-architecture?hl=fr#:~:text=Dans%20une%20architecture%20de%20microservices,r%C3%A9pondre%20%C3%A0%20des%20probl%C3%A9matiques%20m%C3%A9tier.)
 - [Appréhendez l'architecture Microservices](https://openclassrooms.com/fr/courses/4668056-construisez-des-microservices/7651431-apprehendez-larchitecture-microservices)
 - [Les microservices, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/microservices/what-are-microservices)
 ## Architecture Hexagonale

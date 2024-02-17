@@ -12,6 +12,14 @@
 #### Spring WebFlux
 - [Introduction à Spring Webfluw et la programmation réactive](https://creativetech-fr.devoteam.com/2023/06/16/spring-webflux-le-developpement-web-reactif/#:~:text=Spring%20WebFlux%20est%20un%20excellent,interagir%20avec%20d'autres%20microservices.)
 - [Les points à prendre en considération avant d'utiliser la programmation réactive avec Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux/new-framework.html#webflux-framework-choice)
+# Architecture logicielle
+## Architecture à microservice
+## Architecture Hexagonale
+- [Exploring the Hexagonal Architecture](https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture/)
+- [L’architecture hexagonale : Deux côtés valent mieux qu’un, mais six c’est encore mieux!](https://medium.com/@cindanojonathan.fr/larchitecture-hexagonale-une-histoire-toujours-%C3%A0-double-facette-a5be0fb5dc75)
+- [Architecture Hexagonale, exemple de mise en pratique de la méthode DDD Domain Driven Design](https://www.urbanisation-si.com/architecture-hexagonale-un-exemple-de-mise-en-pratique-de-la-methode-ddd-domain-driven-design-1)
+- [De la Théorie à la Pratique : Spring Boot, Architecture Hexagonale et DDD, pour des Applications Java Modulaires et Orientées Métier](https://medium.com/@faroukymedia/de-la-th%C3%A9orie-%C3%A0-la-pratique-spring-boot-architecture-hexagonale-et-ddd-pour-des-applications-f1110d83bced)
+## Architecture à 12 Facteurs
 
 # Etat de l'art des bibliothèques Javascript et Java
 ## bibliothèques de composants

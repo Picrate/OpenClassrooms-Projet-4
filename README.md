@@ -26,24 +26,3 @@ Savoir effectuer une veille et faire des choix techniques en adéquation avec le
 # Veille Technologique
 ## Dashboard
 [Les sources utilisées pour la veille](DASHBOARD.md)
-
-## Choix des bibliothèques
-### Javascript
-#### JEST
-- Test parallélisés en les exécutant dans leurs propres processus afin de maximiser les performances.
-- Projet OpenSource
-- Zero configuration
-- Standalone
-- Couverture de code
-- Snapshots en cours de tests
-- Fonctionne avec Node, React, Angular, Vue...
-- Supporté par défaut par Angular (v.16)
-### Playwright
-- Multi Browser (Chrome, Firefox, Safari)
-- Multi Language (Typescript / Javascript / Java)
-- Développé par Microsoft
-### Java
-#### JUnit5
-#### Cucumber (BDD)
-### Composants
- Angular Material
